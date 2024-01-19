@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Berk Gumus</h1>
-<h3 align="center">A passionate Junior Data Scientist from Türkiye</h3>
+<h3 align="center">A passionate Mobile Developing from Türkiye</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berk420&label=Profile%20views&color=0e75b6&style=flat" alt="berk420" /> </p>
 
-- 🔭 I’m currently working on **Data Science and Mobile Operating System**
+- 🔭 I’m currently working on **Mobile Developing**
 
-- 🌱 I’m currently learning **Flutter, Machine Learning**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **in Kaggle projects**
+- 👯 I’m looking to collaborate on **in Mobile projects**
 
-- 🤝 I’m looking for help with **people who work related with data science**
+- 🤝 I’m looking for help with **people who work related with React Native**
 
 - 👨‍💻 Some of my projects are available at [berkgumus.epizy.com](berkgumus.epizy.com)
 
