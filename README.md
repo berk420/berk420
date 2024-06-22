@@ -8,21 +8,15 @@
 
 - 🔭 I’m currently working on **Fullstack Developing**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **in Mobile projects**
+- 👯 I’m looking to collaborate on **in FullStack projects**
 
-- 🤝 I’m looking for help with **people who work related with React Native**
+- 🤝 I’m looking for help with **people who work related with Next.js**
 
-- 👨‍💻 Some of my projects are available at [berkgumus.epizy.com](berkgumus.epizy.com)
-
-- 📝 I regularly write articles on [berkgumus.epizy.com](berkgumus.epizy.com)
-
-- 💬 Ask me about **Stress and Time managment**
+- 💬 Ask me about **TypeScript**
 
 - 📫 How to reach me **brkgums@gmail.com**
-
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1jN11C-qR2H9O44eDqYiqLuqxu7UeFPcV/view?usp=sharing)
 
 - ⚡ Fun fact **working make me feel good**
 
