@@ -6,15 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berk420&label=Profile%20views&color=0e75b6&style=flat" alt="berk420" /> </p>
 
-- 🔭 I’m currently working on **Fullstack Developing**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on **in FullStack projects**
-
-- 🤝 I’m looking for help with **people who work related with Next.js**
-
-- 💬 Ask me about **TypeScript**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **brkgums@gmail.com**
 
